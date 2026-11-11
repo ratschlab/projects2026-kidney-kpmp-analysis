@@ -1,0 +1,28 @@
+# Virtual spatial transcriptomics links kidney histopathology to disease-associated molecular programs
+
+> Paper by Kalin Nonchev, Yunsu Jang, Stellor Nlandu Khodo, Viktor H. Koelzer, Gunnar Rätsch and Matthias B. Moor. DeepSpot-M predicts the spatially resolved expression of 19,338 genes from routine H&E whole-slide images of kidney biopsies. It was benchmarked against measured 10x Visium in held-out biopsies of the Kidney Precision Medicine Project (KPMP) and applied to 1,534 whole-slide images of 476 KPMP participants, giving a virtual spatial transcriptomics atlas of the human kidney that links histopathology to disease-associated molecular programs. The predictions were validated with 10x Xenium and in rat kidney injury (Open TG-GATEs).
+
+## Main results
+
+- Benchmark: accuracy of virtual spatial transcriptomics against measured 10x Visium in held-out KPMP biopsies, compared with STPath and SQUALL (Figure 2)
+- Rat kidney injury: virtual injury programs in rat kidney whole-slide images from Open TG-GATEs (Figure 3)
+- Kidney atlas: tissue niches across 1,534 KPMP biopsies, agreement with 10x Xenium, and extension of Xenium panels to 19,338 genes (Figure 4)
+
+## Data
+
+- [KPMP virtual spatial transcriptomics atlas](https://huggingface.co/datasets/ratschlab/KPMP_virtual_spatial_transcriptomics_atlas): predicted expression of 19,338 genes for 1,534 H&E whole-slide images of 476 KPMP participants
+- [KPMP Xenium virtual spatial transcriptomics](https://huggingface.co/datasets/ratschlab/KPMP_Xenium_virtual_spatial_transcriptomics): predicted expression of 19,338 genes per cell for 49 KPMP Xenium kidney sections
+
+## Model
+
+- [DeepSpot-M model weights](https://huggingface.co/ratschlab/DeepSpotM)
+- [DeepSpot-M code](https://github.com/ratschlab/DeepSpotM)
+- [DeepSpot-M preprint](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060)
+
+## Analysis code
+
+- [Analysis code and data](https://github.com/ratschlab/projects2026-kidney-kpmp-analysis): reproduces the results of Figures 2, 3 and 4
+
+## Citation
+
+Nonchev K, Jang Y, Nlandu Khodo S, Koelzer VH, Rätsch G, Moor MB. Virtual spatial transcriptomics links kidney histopathology to disease-associated molecular programs. Journal details will be added on publication.

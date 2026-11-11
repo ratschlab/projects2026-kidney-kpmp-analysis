@@ -1,0 +1,9 @@
+niche,rule,candidates,candidate_participants,decile,decile_participants,shown
+N1,"non-edge, stained > slide median, purity 15/15",16449,292,1645,250,8
+N2,"non-edge, stained > slide median, purity 15/15",10013,288,1002,197,8
+N3,"non-edge, stained > slide median, purity 15/15",3535,279,354,134,8
+N4,"non-edge, stained > slide median, purity 15/15",17700,281,1770,228,8
+N5,"non-edge, stained > slide median, purity 15/15",9711,287,972,225,8
+N6,"non-edge, stained > slide median, purity 15/15",1850,209,185,76,8
+N8,purity only (image-quality niche),1622,126,163,27,8
+N9,"non-edge, stained > slide median, purity 15/15",675,110,68,38,8

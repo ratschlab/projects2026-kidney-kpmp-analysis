@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper as below."
+type: software
+title: "Virtual spatial transcriptomics links kidney histopathology to disease-associated molecular programs"
+abstract: "Analysis code and data for the paper. DeepSpot-M predicts the spatially resolved expression of 19,338 genes from H&E whole-slide images of kidney biopsies. It was benchmarked against measured 10x Visium in held-out biopsies of the Kidney Precision Medicine Project (KPMP) and applied to 1,534 whole-slide images of 476 KPMP participants, giving a virtual spatial transcriptomics atlas of the human kidney, validated with 10x Xenium and in rat kidney injury (Open TG-GATEs)."
+authors:
+  - given-names: Kalin
+    family-names: Nonchev
+    affiliation: "Department of Computer Science, ETH Zurich, Zurich, Switzerland"
+  - given-names: Yunsu
+    family-names: Jang
+    affiliation: "Department of Nephrology, Inselspital, Bern University Hospital, Bern, Switzerland"
+  - given-names: Stellor
+    family-names: Nlandu Khodo
+    affiliation: "National Institute of Health and Medical Research (INSERM), UMR-S1155, Tenon Hospital, Sorbonne University, Paris, France"
+  - given-names: Viktor H.
+    family-names: Koelzer
+    affiliation: "Department of Pathology and Molecular Pathology, University Hospital Zurich, University of Zurich, Zurich, Switzerland"
+  - given-names: Gunnar
+    family-names: Rätsch
+    affiliation: "Department of Computer Science, ETH Zurich, Zurich, Switzerland"
+  - given-names: Matthias B.
+    family-names: Moor
+    affiliation: "Department of Nephrology, Inselspital, Bern University Hospital, Bern, Switzerland"
+repository-code: "https://github.com/ratschlab/projects2026-kidney-kpmp-analysis"
+url: "https://huggingface.co/datasets/ratschlab/KPMP_virtual_spatial_transcriptomics_atlas"
+license: MIT
+keywords:
+  - virtual spatial transcriptomics
+  - spatial transcriptomics
+  - computational pathology
+  - kidney biopsy
+  - nephrology
+  - chronic kidney disease
+  - acute kidney injury
+  - Kidney Precision Medicine Project
+  - H&E whole-slide images
+  - DeepSpot-M
