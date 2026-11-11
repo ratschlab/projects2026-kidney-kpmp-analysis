@@ -1,0 +1,15 @@
+quantity,value
+spots_ffpe,4473883.0
+spots_frozen,984942.0
+participants_ffpe,475.0
+participants_frozen,445.0
+genes,19338.0
+tissue_mm2,17118.72
+tissue_mm2_ffpe,14029.98
+sections,7126.0
+participants_with_baseline_egfr,440.0
+participants_with_fibrosis_score,255.0
+participants_with_descriptors,255.0
+xenium_participants,34.0
+xenium_slides,112.0
+xenium_heldout_genes,233.0

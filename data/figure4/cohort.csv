@@ -1,0 +1,12 @@
+group,diagnosis,participants,ffpe_slides,frozen_slides,spots
+CKD,DKD,139,292,147,1681120
+CKD,HKD,113,225,132,1377065
+CKD,other CKD,53,109,78,641791
+CKD,undetermined,96,193,128,1079168
+DM-R,DM resilient,20,40,27,202631
+DM-R,DKD / HKD,10,20,18,118325
+DM-R,other DM-R,6,12,8,66609
+Healthy_Reference,Reference,6,9,0,40196
+AKI,ATI,12,25,8,87381
+AKI,AIN,4,10,5,37843
+AKI,other AKI,17,33,15,126696

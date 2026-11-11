@@ -1,0 +1,5 @@
+group,gene,split,biopsy,pixel_size_um,n_candidates
+Healthy_Reference,PCK1,0,164-12,0.319719,22
+CKD,PCK1,0,31-10100,0.320099,65
+DM-R,FBP1,3,27-10207,0.320282,18
+AKI,MMP7,4,30-11124,0.320903,48
